@@ -1,6 +1,6 @@
 import os
-i = 0
 def vzlom():
+	i = 0
 	os.mkdir("ВЗЛОМ ЖОПЫ" + str(i))
 	if os.mkdir("ВЗЛОМ ЖОПЫ" + str(i)) == 1:
 		i += 1
